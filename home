@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pochako</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+  background-image: url("bigpocha.png");
+  background-size: cover;
+}
+#text1 {
+color: #FFFFFF;
+text-align: center
+}
+#pic1 {
+  text-align : center;
+  display : flex;
+  justify-content: center;
+}
+ </style>
+</head>
+  <body>
+    <div id="text1">
+        <h>PochakoShop</h>
+<p>R18がメインのshopです！</p>
+<p>ご購入やお問い合わせはこちらからどうぞ！</p>
+</div>
+      <div id="pic1">
+  <a href="https://discord.gg/cu3dm4FGQk">
+        <img src="discord-mascot.png" alt="discord"width="200" height="200">
+    <a href="https://t.me/r18onlyshop">
+        <img src="telegram.png" alt="telegram"width="200" height="200">
+    </a>
+</div>
+</body>
+</html>
